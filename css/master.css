@@ -964,7 +964,7 @@ justify-content: space-between;
     background-color:#f44336;
     
 }
-.page .content .tables .reminders .check-list div h3{
+.page .content .tables .reminders .check-list div h4{
     margin: 10px 0px;
 }
 /* end remindres */
@@ -974,7 +974,7 @@ justify-content: space-between;
     border: 1px  solid;
     border-color: #77755445 transparent;
     line-height: 1.8;
-    font-weight: bolder;
+    font-weight: bold;
 }
 /* end latest post */
 /* start projects-section */
@@ -1400,7 +1400,8 @@ left: 0;
     position: absolute;
     background-color: #0075ff;
     color: white;
-    padding: 5px;
+    font-size: 14px;
+    padding: 5px 10px;
     border-radius: 6px;
     bottom: -15px;
     width: fit-content;
